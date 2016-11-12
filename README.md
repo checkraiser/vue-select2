@@ -5,7 +5,7 @@ Select2 component for Vue2
 # Installation
 
 ```
-yarn install --save vue-select2
+yarn install --save v-select2
 ```
 
 # Examples
