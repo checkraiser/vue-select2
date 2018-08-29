@@ -10,7 +10,7 @@ yarn install --save v-select2
 
 # Examples
 
-```
+```js
 <template>
   <form>
     <select2 :options="options"></select2>
